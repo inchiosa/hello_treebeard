@@ -1,4 +1,4 @@
-# Hello Treebeard
+# Hello Treebeard!
 
 ![Run on Treebeard](https://github.com/treebeardtech/hello_treebeard/workflows/Run%20on%20Treebeard/badge.svg?event=push)
 
