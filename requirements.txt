@@ -1,7 +1,0 @@
-jupyter
-treebeard
-requests
-pandas
-numpy
-matplotlib
-seaborn
